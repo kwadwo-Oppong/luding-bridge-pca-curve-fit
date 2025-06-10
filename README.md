@@ -1,4 +1,4 @@
-# luding-bridge-pca-curve-fit
+# Luding Suspension Bridge Pedestrian Movement Analysis
 Parametric curve modeling of pedestrian movement on the **Luding Suspension Bridge** using **PCA** and polynomial fitting in 3D space. Includes data visualization, dimensionality reduction, projection, and reconstruction in the original coordinate system.  
 This project analyzes the movement of pedestrians across the **Luding Suspension Bridge** in China using a dataset of 3D coordinates. The bridge follows a catenary curve and is modeled using dimensionality reduction and curve fitting techniques in $R^3$  
 The main objectives of the project include:
